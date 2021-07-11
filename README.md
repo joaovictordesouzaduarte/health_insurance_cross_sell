@@ -33,3 +33,13 @@ The main propose of this project is predict most probable customers to purchase 
 <strong>  Vintage: </strong> number of days that the customers has associate with the company through health insurance purchases 
 
 <strong> Response:  </strong> 0,  if the customer doesn't want a new car insurance and 1, if has.
+
+<h2> 2. The Challenge </h2>
+ With a solution, the seller teams hope to achieve to be able to prioritize people of most interest in new products and optimize the campaign by doing just calls with customers that are most likely to buy. 
+ Given that informations, the company hired a data science consulting to answer the following questions:
+ 
+ <strong> 1. </strong> Among the features, What features show the customer is most likely to buy?
+ 
+ <strong> 2. </strong> If the sales team is able to make 20k calls per month, which customers they should call? 
+ 
+ <strong> 3. </strong> If the capacity of the sales team increase to 40K call per month, 
