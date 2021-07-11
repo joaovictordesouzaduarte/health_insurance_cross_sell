@@ -43,3 +43,9 @@ The main propose of this project is predict most probable customers to purchase 
  <strong> 2. </strong> If the sales team is able to make 20k calls per month, which customers they should call? 
  
  <strong> 3. </strong> If the capacity of the sales team increase to 40K call per month, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
+ 
+ <strong> 4. </strong> How many calls does the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
+ 
+ 
+ <h2> 3. Business Results </h2>
+ 
