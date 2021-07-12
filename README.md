@@ -49,3 +49,12 @@ The main propose of this project is predict most probable customers to purchase 
  
  <h2> 3. Business Results </h2>
  
+ The answers to questions above are:
+  1) The most importance features are: "policy sales channel, vehicle damage, age, annual premium, anual premium per age, premium_per_day and region code "
+    obs: Features anual_premium_per_age and premium_per_day Both were derived features of "annual_premium".
+    
+  2) If the sales team are able to make 20K calls per month, they will reach about 71% of interested customers
+  3) If the sales team are able to make 40K calls per month, they will reach about 99% of interested customers
+  4) n order to reach 80% of the interested customers, the sales team must make 15300 calls.
+
+<h2>
