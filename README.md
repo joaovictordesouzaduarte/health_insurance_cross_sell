@@ -57,4 +57,23 @@ The main propose of this project is predict most probable customers to purchase 
   3) If the sales team are able to make 40K calls per month, they will reach about 99% of interested customers
   4) n order to reach 80% of the interested customers, the sales team must make 15300 calls.
 
-<h2>
+<h2> 4. Machine Learning Models </h2>
+ 
+ The Machine Learning models employed and their results were:
+ 
+ ![image](https://user-images.githubusercontent.com/81034654/125360031-99f0b300-e341-11eb-865b-53f43a1ccb8b.png)
+
+Cumulative Gains Curve describe which percentagem of sample (customers interested) the sales team need to comunicate to achieve the propose goal. For example: see 3. Business Result.
+
+![image](https://user-images.githubusercontent.com/81034654/125360447-42067c00-e342-11eb-86d8-38d481511a3a.png)
+
+Furthermore, another important graph are AUC-ROC Curve:
+
+![image](https://user-images.githubusercontent.com/81034654/125360764-b8a37980-e342-11eb-835f-9d57e8e6033e.png)
+
+<h2> 5. Conclusions </h2>
+ 
+ The identification of the potential clients that are most prone to purchase the new vehicle insurance is a ranking problem, a particular type of classification problem. As such, it requires specific metrics to evaluate the model's performance. But more importantly, from the business point of view, the model provides insight into the most relevant features that characterize a potential customer, enabling the company's sales team to focus their calls, thereby reducing the company's cost.
+
+
+
