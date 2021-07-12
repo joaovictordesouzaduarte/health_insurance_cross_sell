@@ -73,7 +73,4 @@ Furthermore, another important graph are AUC-ROC Curve:
 
 <h2> 5. Conclusions </h2>
  
- The identification of the potential clients that are most prone to purchase the new vehicle insurance is a ranking problem, a particular type of classification problem. As such, it requires specific metrics to evaluate the model's performance. But more importantly, from the business point of view, the model provides insight into the most relevant features that characterize a potential customer, enabling the company's sales team to focus their calls, thereby reducing the company's cost.
-
-
-
+ The identification potencial customers is a classic classification problem in Machine Learning. Such as, required specific metrics to evaluate their forecasts. From a business view, we was able to make better features selections and classifications, offering to the sales team how much customers they need to call in order to potencialize business result. 
